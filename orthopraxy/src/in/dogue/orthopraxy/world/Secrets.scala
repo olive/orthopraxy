@@ -11,6 +11,7 @@ object Secrets {
     Code.↑,
     Code.↓,
     Code.→,
+    Code.↓,
     Code.`←`,
     Code.↑
   )
